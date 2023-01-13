@@ -540,17 +540,21 @@ img{
 
 .skills__python
 {
-    width: 60%;
+    width: 50%;
 }
 
 .skills__css
 {
     width: 70%;
 }
+.skills__angular
+{
+    width: 70%;
+}
 
 .skills__js
 {
-    width: 50%;
+    width: 70%;
 }
 
 .skills__html
@@ -560,23 +564,13 @@ img{
 
 .skills__php
 {
+    width: 40%;   
+}
+.skills__sql
+{
     width: 60%;   
 }
 
-.skills__react
-{
-    width: 50%;
-}
-
-.skills__nodejs
-{
-    width: 50%;
-}
-
-.skills__photoshop
-{
-    width: 60%;
-}
 
 .skills__close .skills__list
 {
